@@ -1,16 +1,28 @@
 # flutter_social_network
 
-A new Flutter project.
+An instagram like flutter social network
 
-## Getting Started
+![Alt text](/screenshots/Login page.jpg?raw=true "Login Page")
 
-This project is a starting point for a Flutter application.
+![Alt text](/screenshots/New feed empty.jpg?raw=true "Empty news feed")
 
-A few resources to get you started if this is your first Flutter project:
+![Alt text](/screenshots/Upload image.jpg?raw=true "Image upload page")
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Alt text](/screenshots/Image selection.jpg?raw=true "Image selection page")
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Alt text](/screenshots/My profile.jpg?raw=true "Profile Page")
+
+![Alt text](/screenshots/My image.jpg?raw=true "My image page")
+
+![Alt text](/screenshots/Image deletion.jpg?raw=true "Deleting image Page")
+
+![Alt text](/screenshots/Image comments.jpg?raw=true "Comments Page")
+
+![Alt text](/screenshots/Liking image.jpg?raw=true "Liking an image with overlay effects")
+
+![Alt text](/screenshots/Other image.jpg?raw=true "Other user image")
+
+![Alt text](/screenshots/Other profile.jpg?raw=true "Other user profile")
+
+
+
