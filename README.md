@@ -4,7 +4,7 @@
 An instagram like flutter social network
 
 Login page
-![Login page](https://user-images.githubusercontent.com/62266399/118387465-94633f00-b616-11eb-836e-978cf52c3255.jpg)
+![Login page](https://user-images.githubusercontent.com/62266399/118387465-94633f00-b616-11eb-836e-978cf52c3255.jpg | width=100)
 
 Empty news feed page
 ![New feed empty](https://user-images.githubusercontent.com/62266399/118387479-a80ea580-b616-11eb-915a-30ed7e6ac81f.jpg)
