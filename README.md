@@ -2,7 +2,7 @@
 
 An instagram like flutter social network
 
-![ScreenShot](/screenshots/Login page.jpg?raw=true "Login Page")
+![ScreenShot](/screenshots/Login page.jpg)
 
 ![ScreenShot](/screenshots/New feed empty.jpg?raw=true "Empty news feed")
 
