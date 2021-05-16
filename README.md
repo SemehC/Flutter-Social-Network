@@ -31,7 +31,7 @@ Liking an image with overlay effects<br/>
 <img src="https://user-images.githubusercontent.com/62266399/118387549-f8860300-b616-11eb-8185-8a8fe49faa11.jpg" width="250">
 
 Other user image<br/>
-<img src="https://user-images.githubusercontent.com/62266399/118387564-09367900-b617-11eb-9dda-6719157f8cd5.jpg" width="250">
+<img src="https://user-images.githubusercontent.com/62266399/118387857-b067e000-b618-11eb-8fa1-2a312929639c.jpg" width="250">
 
 Other user profile<br/>
 <img src="https://user-images.githubusercontent.com/62266399/118387571-12bfe100-b617-11eb-8511-698bc4da2a86.jpg" width="250">
